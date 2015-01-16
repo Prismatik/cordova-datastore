@@ -1,0 +1,24 @@
+{
+  "name": "cordova-datastore",
+  "version": "1.0.0",
+  "description": "A non-localstorage datastore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/cordova-datastore.git"
+  },
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/cordova-datastore/issues"
+  },
+  "homepage": "https://github.com/Prismatik/cordova-datastore",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  },
+  "dependencies": {
+  }
+}
